@@ -1,0 +1,12 @@
+.jumbotron{
+    color: #222222;
+    background-image:url(assets/jumbo_background.jpg);
+    height: 388px;
+}
+.btn.btn-secondary{
+    background-color: transparent;
+}
+button {
+    background: none;
+    border: none;
+}
